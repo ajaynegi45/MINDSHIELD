@@ -1,0 +1,12 @@
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+width: 100%;
+    margin-top: 2rem;
+}
+
+.buttonContainer > a {
+    padding: 0.5rem 1rem;
+    border-radius: 5px ;
+    background-color: var(--red);
+}

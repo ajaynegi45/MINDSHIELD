@@ -3,6 +3,28 @@
 @tailwind utilities;
 
 :root {
+  /*--max-width: 110px;*/
+  /*--border-radius: 12px;*/
+  /*--font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",*/
+  /*"Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",*/
+  /*"Fira Mono", "Droid Sans Mono", "Courier New", monospace;*/
+
+  --black: #3b3d41;
+  --grey: #a0a5ac;
+  --line-grey: #e1e4e8;
+  --slate-black: #667085;
+  --mist-grey: #f2f2f2;
+
+  --light-green: #22c55e;
+  --light-yellow: #ffc107;
+  --light-blue: #3b82f6;
+  --light-red: #ff3737;
+  --light-red2: #ff69b4;
+  --red:  #B80000;
+
+  --green: #2e865f;
+  --soil: #eeb27b;
+
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -18,4 +40,57 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*  reset everything*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  border: 0 solid transparent;
+}
+
+/*  prevent iOS font size change*/
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+/*  reset body line-height*/
+body {
+  /*font-family: "SF Pro Display", system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Helvetica", "Arial",sans-serif;*/
+  line-height: 1;
+  /*text-rendering: optimizeSpeed;*/
+  text-rendering: optimizeLegibility;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /*max-width: 1440px;*/
+}
+
+/*  assign button hover state*/
+button,
+[role="button"] {
+  cursor: pointer;
+  background-color: transparent;
+  -webkit-tap-highlight-color: transparent;
+  &:focus {
+    outline: 0;
+  }
+}
+
+main {
+  width: 97%;
+  max-width: 1440px; /* Fixed maximum width */
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto; /* Centering main element */
+  overflow: hidden;
 }

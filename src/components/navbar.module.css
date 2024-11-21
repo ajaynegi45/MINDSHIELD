@@ -50,17 +50,17 @@
   backdrop-filter: blur(10px);
 }
 .empty-navbar {
-  margin-top: 2rem;
+  /*margin-top: 2rem;*/
   height: 4rem;
   width: 95%;
 }
 
 .title {
   font-size: 14px;
-  color: rgb(59, 61, 65);
+  color: white;
   letter-spacing: 0.03em;
   font-weight: 650;
-  filter: drop-shadow(0 0 0.8rem #a0a5ac);
+  /*filter: drop-shadow(0 0 0.8rem #a0a5ac);*/
   text-transform: uppercase;
   margin: 0;
 }
@@ -69,12 +69,20 @@
   text-decoration: none;
 }
 
+.links-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
 .link {
   font-size: 14px;
-  color: rgb(59, 61, 65);
+  color: white;
   letter-spacing: -0.01em;
   font-weight: 650;
-  filter: drop-shadow(0 0 0.8rem #a0a5ac);
+  /*filter: drop-shadow(0 0 0.8rem #a0a5ac);*/
   text-transform: uppercase;
   text-decoration: none;
 }
@@ -83,7 +91,7 @@
 .title:hover,
 .link:hover {
   cursor: pointer;
-  color: rgb(0, 0, 0);
+  color: var(--red);
 }
 
 /* Mobile */
