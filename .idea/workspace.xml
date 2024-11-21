@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5e2f80a-11a9-4d70-8bc1-a2b7aa3a3ee5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CardsCarousel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CardsCarousel.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HeroHighlightSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeroHighlightSection.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/OurTeam.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OurTeam.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SOSButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SOSButton.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SOSButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SOSButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ui/animated-testimonials.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/animated-testimonials.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ui/apple-cards-carousel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/apple-cards-carousel.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ui/hero-highlight.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ui/hero-highlight.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hooks/use-outside-click.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/use-outside-click.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/utils.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
-    </list>
+    <list default="true" id="c5e2f80a-11a9-4d70-8bc1-a2b7aa3a3ee5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
