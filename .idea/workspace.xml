@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5e2f80a-11a9-4d70-8bc1-a2b7aa3a3ee5" name="Changes" comment="" />
+    <list default="true" id="c5e2f80a-11a9-4d70-8bc1-a2b7aa3a3ee5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/Affirmations.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Authentication.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/UserAuthentication.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/journal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sos.avif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/IMG_0439.HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CardsCarousel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CardsCarousel.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +79,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
     </key>
   </component>
   <component name="SharedIndexes">
