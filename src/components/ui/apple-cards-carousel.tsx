@@ -30,6 +30,7 @@ type Card = {
 
 export const CarouselContext = createContext<{
     onCardClose: (index: number) => void;
+    // @typescript-eslint/no-unused-vars
     currentIndex: number;
 }>({
     onCardClose: () => {},

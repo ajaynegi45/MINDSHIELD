@@ -33,6 +33,6 @@ export function OurTeam() {
             src: Ajay,
         }
     ];
-    // @ts-ignore
+    // @ts-expect-error
     return <AnimatedTestimonials testimonials={testimonials} />;
 }

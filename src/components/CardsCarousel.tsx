@@ -18,7 +18,7 @@ export function CardsCarousel() {
                 Why Choose MindShield
             </h2>
             <p className="max-w-7xl pl-4 mx-auto md:text-2xl  text-neutral-400 dark:text-neutral-200 font-sans flex justify-center items-center text-center m-4">
-                We’re here to empower you with tools that prioritize your safety and mental wellbeing. Whether it's an emergency or a need for motivation, we’ve got you covered
+                We&apos;re here to empower you with tools that prioritize your safety and mental wellbeing. Whether it's an emergency or a need for motivation, we’ve got you covered
             </p>
             <Carousel items={cards} />
         </div>
