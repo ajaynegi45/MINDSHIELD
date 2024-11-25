@@ -4,8 +4,8 @@ import React from "react";
 import { Carousel, Card } from "@/components/ui/apple-cards-carousel";
 import SOS from "@/assets/sos.avif"
 import Journal from "@/assets/journal.jpg"
-import  Affirmations from "@/assets/affirmations.avif"
-import Authentication from "@/assets/authentication.avif"
+import  Affirmations from "@/assets/Affirmations.avif"
+import Authentication from "@/assets/Authentication.avif"
 
 export function CardsCarousel() {
     const cards = data.map((card, index) => (
